@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a Software Engineering student at ALX.<br>I'm learning C programming, React, Javascript and Python.<be>
-- 🔭 I’m currently working on a Bank Management System, created in c.
+- 🔭 I’m currently working on a Bank Management System, created in c. :-) It's a mini-project that is open to collaboration. So if you're interested, DM me!
 - 🌱 I’m currently learning Python, C, React and Javascript.
 - 👯 I’m looking to collaborate on front-end projects.
 
